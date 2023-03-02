@@ -1,0 +1,11 @@
+.encabezado__contacto{
+    width: 140px;
+    height: 16px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #464646;
+    padding:20px 16px ;
+}

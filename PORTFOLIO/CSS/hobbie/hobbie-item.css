@@ -1,0 +1,50 @@
+.hobbie__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 8px;
+    width: 176px;
+    height: 174px;
+    background: #FFFFFF;
+}
+
+.hobbie__item-text{
+    width: 144px;
+    height: 19px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    font-weight: 19px;
+    display: flex;
+    align-items: center;
+    color: #464646;
+}
+.hobbie__item-imagen {
+    width: 32px;
+    height: 32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #2A7AE4;
+}
+
+.hobbie__item-img {
+    width: 32px;
+    height: 32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #2A7AE4;
+    filter: invert(45%) sepia(38%) saturate(6075%) hue-rotate(200deg) brightness(93%) contrast(91%);
+}
