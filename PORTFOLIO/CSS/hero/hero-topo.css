@@ -1,9 +1,0 @@
-.hero__topo{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0px;
-    gap: 24px;
-    width: 751px;
-    height: 246px;
-}

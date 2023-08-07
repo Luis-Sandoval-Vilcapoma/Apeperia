@@ -1,9 +1,0 @@
-.hero__imagen{
-    background-image: url("/img/perfil.jpg");
-    width: 300px;
-    height: 300px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border-radius: 50%;
-}
